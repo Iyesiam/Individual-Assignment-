@@ -1,2 +1,2 @@
 # Individual-Assignment-
-flutter mobile Applications development 
+Mobile Applications development in Flutter (dart)
